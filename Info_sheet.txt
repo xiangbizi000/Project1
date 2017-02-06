@@ -1,0 +1,48 @@
+========================================
+CS/COE 1501 Assignment Information Sheet
+----------------------------------------
+
+You must submit an information sheet with every assignment.  Also be sure
+to submit all materials following the procedures described on the
+submission procedures page.
+
+Name: Liang Zhu			
+
+Lecture section: Tuesday/Thursday 11 am (Non writting) 
+
+Recitation day and time: Friday 12 pm
+
+Assignment #:  1
+
+Program due date:  2/9/2017
+
+Handed in date:  
+
+Source code file name(s):
+
+
+
+
+
+
+
+Other file name(s) (if relevant):
+
+
+
+
+
+
+
+Does your program run without error?:
+
+If not, what is/are the error(s) and which parts of your program run
+correctly?:
+
+
+s
+
+
+
+
+Additional comments to the grader:
